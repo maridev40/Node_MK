@@ -1,0 +1,11 @@
+{
+  "name": "maridev40_gen_number",
+  "version": "1.0.0",
+  "description": "Generation of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marina Kuzmina",
+  "license": "ISC"
+}
